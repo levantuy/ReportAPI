@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_UpgradeWizard_Files\UpgradeWizardLog.xslt"?>
+<log>
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\StandAloneReportServer.csproj" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\_ViewStart.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\_ViewStart.cshtml" />
+  <event action="Analyze" type="Success" name="_ViewStart.cshtml" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\_ViewStart.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Help\Api.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Help\Api.cshtml" />
+  <event action="Analyze" type="Success" name="Api.cshtml" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Help\Api.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Help\DisplayTemplates\ApiGroup.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Help\DisplayTemplates\ApiGroup.cshtml" />
+  <event action="Analyze" type="Success" name="ApiGroup.cshtml" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Help\DisplayTemplates\ApiGroup.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Help\DisplayTemplates\HelpPageApiModel.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Help\DisplayTemplates\HelpPageApiModel.cshtml" />
+  <event action="Analyze" type="Success" name="HelpPageApiModel.cshtml" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Help\DisplayTemplates\HelpPageApiModel.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Help\DisplayTemplates\ImageSample.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Help\DisplayTemplates\ImageSample.cshtml" />
+  <event action="Analyze" type="Success" name="ImageSample.cshtml" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Help\DisplayTemplates\ImageSample.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Help\DisplayTemplates\InvalidSample.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Help\DisplayTemplates\InvalidSample.cshtml" />
+  <event action="Analyze" type="Success" name="InvalidSample.cshtml" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Help\DisplayTemplates\InvalidSample.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Help\DisplayTemplates\Parameters.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Help\DisplayTemplates\Parameters.cshtml" />
+  <event action="Analyze" type="Success" name="Parameters.cshtml" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Help\DisplayTemplates\Parameters.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Help\DisplayTemplates\Samples.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Help\DisplayTemplates\Samples.cshtml" />
+  <event action="Analyze" type="Success" name="Samples.cshtml" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Help\DisplayTemplates\Samples.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Help\DisplayTemplates\TextSample.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Help\DisplayTemplates\TextSample.cshtml" />
+  <event action="Analyze" type="Success" name="TextSample.cshtml" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Help\DisplayTemplates\TextSample.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Help\Index.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Help\Index.cshtml" />
+  <event action="Analyze" type="Success" name="Index.cshtml" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Help\Index.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Shared\_Layout.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Shared\_Layout.cshtml" />
+  <event action="Analyze" type="Success" name="_Layout.cshtml" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Shared\_Layout.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Web.config" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Areas\HelpPage\Views\Web.config" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\packages.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\packages.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\packages.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\packages.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\packages.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\packages.config" />
+  <event action="Analyze" type="Success" name="packages.config" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\packages.config" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Views\_ViewStart.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Views\_ViewStart.cshtml" />
+  <event action="Analyze" type="Success" name="_ViewStart.cshtml" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Views\_ViewStart.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Views\Home\Index.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Views\Home\Index.cshtml" />
+  <event action="Analyze" type="Success" name="Index.cshtml" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Views\Home\Index.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Views\Shared\_Layout.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Views\Shared\_Layout.cshtml" />
+  <event action="Analyze" type="Success" name="_Layout.cshtml" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Views\Shared\_Layout.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Views\Shared\Error.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Views\Shared\Error.cshtml" />
+  <event action="Analyze" type="Success" name="Error.cshtml" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Views\Shared\Error.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Web.config" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Web.config" />
+  <event action="Analyze" type="Success" name="Web.config" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Web.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Web.Debug.config" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Web.Release.config" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\Web.Release.config" />
+  <event action="Analyze" type="Success" name="StandAloneReportServer" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\StandAloneReportServer.csproj" />
+  <event action="Analyze" type="Success" name="StandAloneReportServer" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer.sln" />
+  <event action="Upgrade" type="Success" name="Assembly References" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\StandAloneReportServer.csproj" />
+  <event action="Upgrade" type="Success" name="StandAloneReportServer" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer\StandAloneReportServer.csproj" />
+  <event action="Upgrade" type="Success" name="StandAloneReportServer" path="E:\ReactJS\standalonereportserver-zip\StandAloneReportServer.sln" />
+</log>
